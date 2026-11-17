@@ -1,1 +1,2 @@
 rematch-rag-vector-db-v1.json filter=lfs diff=lfs merge=lfs -text
+rematch-rag-vector-db-openai-v1.json filter=lfs diff=lfs merge=lfs -text
